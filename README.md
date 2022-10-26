@@ -1,1 +1,1 @@
-# Python-turtle-ile-R-zgar-g-l-
+# Python-turtle-ile-Ruzgar gulu
